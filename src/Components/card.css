@@ -1,0 +1,27 @@
+.card{
+    float:left;
+    margin: auto;
+    width: 300px;
+    
+
+    
+}
+
+.card button {
+    background-color: blue;
+    color: white;
+    font-size: 16px;
+    border: none;
+    border-radius: 5px;
+    padding: 10px 20px;
+    cursor: pointer;
+  }
+
+.card button:hover {
+    background-color: #45a049;
+  }
+ 
+
+
+
+  
