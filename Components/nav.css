@@ -1,0 +1,14 @@
+#cart
+{
+    display: inline;
+    text-align: right;
+    margin: auto;
+    padding-left: 430%;
+    padding-top: 1%;
+    justify-content: space-between;
+    
+}
+#bar1
+{
+    float: right;
+}
